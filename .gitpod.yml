@@ -10,3 +10,6 @@ vscode:
     - eventyret.bootstrap-4-cdn-snippet
     - kevinglasson.cornflakes-linter
     - hookyqr.beautify
+    - njpwerner.autodocstring@0.5.4:4ca4401f9fa706b067abecac4d803ce9
+    - almenon.arepl@2.0.2:026af3be06a446b77dffe414168ad8e3
+    - littlefoxteam.vscode-python-test-adapter@0.6.8:4e210c3a3deb81ca178839c6ce3d5e6a
